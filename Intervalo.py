@@ -8,7 +8,7 @@
 
 valor = float(input())
 
-intervalos = ["[0,25]","(25,50]","[50,75]","(75,100]"]
+intervalos = ["[0,25]","(25,50]","(50,75]","(75,100]"]
 
 if(valor >= 0 and valor <=25 ):
     print("Intervalo {}".format(intervalos[0]))
