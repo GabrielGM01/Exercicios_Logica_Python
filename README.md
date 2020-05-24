@@ -1,5 +1,5 @@
-# Exercicios_Logica_Python_Uri-online
-Desafios de Logica do URI Online
+# Exercicios_Logica_Python
+Desafios de Logica
 
 
 Exercicio-1 Esfera-
