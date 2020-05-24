@@ -100,6 +100,9 @@ se A2 < B2 + C2, apresente a mensagem: TRIANGULO ACUTANGULO
 se os três lados forem iguais, apresente a mensagem: TRIANGULO EQUILATERO
 se apenas dois dos lados forem iguais, apresente a mensagem: TRIANGULO ISOSCELES
 
+Exercicio-19 Tempo de Jogo  -
+leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
+
 
 
 
