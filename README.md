@@ -103,6 +103,15 @@ se apenas dois dos lados forem iguais, apresente a mensagem: TRIANGULO ISOSCELES
 Exercicio-19 Tempo de Jogo  -
 leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
 
+Exercicio-20 Aumento de Salário  -
+A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
+0 - 400.00                       15%
+400.01 - 800.00                  12%
+800.01 - 1200.00                 10%
+1200.01 - 2000.00                7%
+Acima de 2000.00                 4%
+
+
 
 
 
