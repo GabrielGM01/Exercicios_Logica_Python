@@ -111,6 +111,10 @@ A empresa ABC resolveu conceder um aumento de salários a seus funcionários de 
 1200.01 - 2000.00                7%
 Acima de 2000.00                 4%
 
+Exercicio-21 DDD -
+Leia um número inteiro que representa um código de DDD para discagem interurbana. Em seguida, informe à qual cidade o DDD pertence
+Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD nao cadastrado caso não existir DDD correspondente ao número digitado.
+
 
 
 
